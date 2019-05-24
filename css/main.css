@@ -9,3 +9,8 @@
    color: blue;
    margin: 0 0 0 20px;
 }
+
+.image-link
+{
+  text-decoration: none;
+}
